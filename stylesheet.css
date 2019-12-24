@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    box-sizing: border-box;
+}
+.illust{
+    margin-top:30px;
+    width: 100%;
+    padding: 0px 20px;
+}
+.illust p{
+    color: #fff;
+    text-align: center;
+}
+@media(min-width:425px){
+    .illust{
+        width: 50%;
+        float: left;
+    }
+    .illust-list{
+        float: left;
+    }
+}    
+@media(min-width:1000px){
+    .illust{
+        width: 25%;
+    }
+}
