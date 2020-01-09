@@ -1,4 +1,4 @@
-*{
+* {
   background-color: skyblue;
 }
 
@@ -84,3 +84,18 @@ ul {
   color: #fff;
   background-color: #5cabd0;
 }
+
+.top {
+  text-align: center;
+  color: #5e6f84;
+  padding: 10px;
+}
+
+.top h1 {
+  font-size: 60px;
+}
+
+.top p {
+  font-size: 30px;
+}
+/*# sourceMappingURL=style.css.map */
