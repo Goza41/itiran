@@ -23,6 +23,10 @@ ul {
   margin-bottom: 30px;
 }
 
+.change-btn{
+      color: blue;
+  }
+
 .change-btn-wrapper {
   width: 500px;
   margin: 20px auto;
